@@ -1,0 +1,9 @@
+{
+"OEUPBG": "{^}{#Control_L(slash)}{^}",
+"OEUPBL": "{^} {#Alt_L(slash)} {^}",
+"PHEUFR": "minibuffer",
+"PWHR-RPBG": "{#Shift(tab)}{^}",
+"SHRURP": "slurp",
+"TA*RPBG": "{#Shift(tab)}{^}",
+"TH-PBG": "{#Control_L(semicolon)}"
+}
