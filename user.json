@@ -1,4 +1,5 @@
 {
+"HREUS": "list",
 "HRO*ER": "{>}",
 "HROEUPBGS": "GNU/Linux",
 "KHRAER": "{}{^}",
@@ -9,6 +10,7 @@
 "KR*D": "{^}cd",
 "KR*PLD": "cd ..",
 "KW-T": "Qt",
+"KWA*L": "{^}={^}",
 "PHA*T": "matt",
 "PHAF": "math",
 "PHR*UP": "{PLOVER:LOOKUP}",

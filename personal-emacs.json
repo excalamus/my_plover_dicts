@@ -1,5 +1,12 @@
 {
+"H-FPL": "{^}{#Control_L(x) o d}{^}",
 "HROG/EU": "logi {#tab} {^}",
 "HROG/TK": "logd {#tab} {^}",
-"PR*EUPBT": "printf {#tab} {^}"
+"P-FPL": "{^}{#Control_L(x) o a}{^}",
+"PHAPBLGT": "{^}{#Control_L(x) g}{^}",
+"PR*EUPBT": "printf {#tab} {^}",
+"R-FPL": "{^}{#Control_L(x) o f}{^}",
+"TK-F": "{^}def {#tab} {^}",
+"TK-FS": "{^}defs {#tab} {^}",
+"W-FPL": "{^}{#Control_L(x) o s}{^}"
 }

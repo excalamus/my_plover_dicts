@@ -1,8 +1,12 @@
 {
+"AZ/PHUF": "azimuth",
 "HRAOEURD": "lidar",
 "HRAZ": "laz",
 "KOPBD": "conda",
-"KW-T/W": "QtWidgets.{^}",
+"KPWREUS": "pys",
+"KW-T/KR*": "QtCore.{^}",
+"KW-T/TKPW*": "QtGui.{^}",
+"KW-T/W*": "QtWidgets.{^}",
 "PAOEU/SAOEUD": "pyside",
 "PHOPBL": "mamba",
 "PHOPL/PWA": "mamba",
