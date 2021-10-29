@@ -5,6 +5,7 @@
 "OEUPBL": "{^} {#Alt_L(slash)} {^}",
 "PHEUFR": "minibuffer",
 "PWHR-RPBG": "{#Shift(tab)}{^}",
+"SET/KW*": "{^}setq",
 "SHRURP": "slurp",
 "TA*RPBG": "{#Shift(tab)}{^}",
 "TH-PBG": "{#Control_L(semicolon)}",

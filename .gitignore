@@ -1,0 +1,8 @@
+.cache/
+commands.json
+cross_platform_movement_v1.json
+main.json
+plover.cfg
+plover.log
+plugins/
+strokes.log
