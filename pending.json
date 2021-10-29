@@ -1,11 +1,11 @@
 {
+"EL": "{^}el",
 "KPW-PBG": "{^}{#Control_L(x)}b{^}",
 "KWHR-PBG": "{^}{#Control_L(equal)}{^}",
 "OEUPBG": "{^}{#Control_L(slash)}{^}",
 "OEUPBL": "{^} {#Alt_L(slash)} {^}",
 "PHEUFR": "minibuffer",
 "PWHR-RPBG": "{#Shift(tab)}{^}",
-"SET/KW*": "{^}setq",
 "SHRURP": "slurp",
 "TA*RPBG": "{#Shift(tab)}{^}",
 "TH-PBG": "{#Control_L(semicolon)}",

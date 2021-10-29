@@ -1,8 +1,10 @@
 {
-"KHAEU": "ciw",
+"KHAEU": "{^}ciw{^}",
 "KHEPB": "{# c i parenleft}{^}",
+"KR*EUGS": "{^}ci\"{^}",
 "SREUP": "vip",
 "SREURD": "{}viw",
 "TKEURD": "{^}diw{^}",
-"TKPREPB": "{# d i parenleft}{^}"
+"TKPREPB": "{# d i parenleft}{^}",
+"TKR*EUGS": "{^}di\"{^}"
 }
