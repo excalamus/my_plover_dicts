@@ -1,5 +1,6 @@
 {
 "*EL": "{#Delete}",
+"-FRPB": "{#Tab}",
 "-R": "{^}\n{^}",
 "AO": "{^^}",
 "AUPT": "update",
@@ -36,6 +37,7 @@
 "STPH*F": "{#Alt_L(BackSpace)}",
 "STPHAO*EBG": "sneek",
 "T-P": "{^}→{^}",
+"T-S": "it is",
 "TAOT/TPHOT": "tutanota",
 "TH-FL": "{^};{^}",
 "THO*PB": "python",
