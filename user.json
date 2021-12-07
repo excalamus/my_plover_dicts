@@ -1,5 +1,6 @@
 {
 "*EL": "{#Delete}",
+"-FRPB": "{#Tab}",
 "-R": "{^}\n{^}",
 "AO": "{^^}",
 "AUPT": "update",
@@ -35,6 +36,7 @@
 "SRAOES": "visa",
 "STPH*F": "{#Alt_L(BackSpace)}",
 "STPHAO*EBG": "sneek",
+"STPHERT": "insert",
 "T-P": "{^}→{^}",
 "TAOT/TPHOT": "tutanota",
 "TH-FL": "{^};{^}",
@@ -44,5 +46,7 @@
 "TKPW*/PHAEUL": "gmail",
 "TKPWEBGS": "guix",
 "TP*PL": "..",
+"TPR*PL": "{^\\{^}",
+"TPR-PL": "{^\\}^}",
 "TR-Z": "trzcinski"
 }
