@@ -1,5 +1,6 @@
 {
 "EL": "el",
+"KHR-PBL": "{^} {#Alt_L(Shift_L(colon))} {^}",
 "KHR-RPBL": "{^} {#Alt_L(Shift_L(colon))} {^}",
 "KPH*EUPBT": "comint",
 "KPW-PBG": "{^}{#Control_L(x)}b{^}",
