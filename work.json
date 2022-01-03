@@ -3,9 +3,9 @@
 "AOU/TEULS": "utils",
 "AOUBL": "useable",
 "AZ/PHUF": "azimuth",
-"KOPB/TKA": "conda",
 "HRAOEURD": "lidar",
 "HRAZ": "laz",
+"KOPB/TKA": "conda",
 "KPWREUS": "pys",
 "KW-T/KR*": "QtCore.{^}",
 "KW-T/TKPW*": "QtGui.q{^}",
@@ -19,5 +19,6 @@
 "SKWR-S/KR*": "qgis.core.{^}",
 "SKWR-S/TKPW*": "qgis.gui.{^}",
 "SRA*PBT": "vantage",
+"TKHRAEUBG": "datalake",
 "UFRPB": "ushr"
 }
