@@ -16,5 +16,7 @@
 "SP-PBG": "{^}{#Control_L(space)}{^}",
 "TA*RPBG": "{#Shift(tab)}{^}",
 "TH-PBG": "{#Control_L(semicolon)}",
-"TKP-PBG": "{^}{#Control_L(x)}{#Control_L(f)}{^}"
+"TKP-PBG": "{^}{#Control_L(x)}{#Control_L(f)}{^}",
+"TPR*PBL": "{^}{#Alt_L(braceright)}{^}",
+"TPR-PBL": "{^}{#Alt_L(braceleft)}{^}"
 }
