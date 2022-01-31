@@ -1,5 +1,6 @@
 {
 "EL": "el",
+"KHR-PBL": "{^} {#Alt_L(Shift_L(colon))} {^}",
 "KHR-RPBL": "{^} {#Alt_L(Shift_L(colon))} {^}",
 "KPH*EUPBT": "comint",
 "KPW-PBG": "{^}{#Control_L(x)}b{^}",
@@ -15,5 +16,7 @@
 "SP-PBG": "{^}{#Control_L(space)}{^}",
 "TA*RPBG": "{#Shift(tab)}{^}",
 "TH-PBG": "{#Control_L(semicolon)}",
-"TKP-PBG": "{^}{#Control_L(x)}{#Control_L(f)}{^}"
+"TKP-PBG": "{^}{#Control_L(x)}{#Control_L(f)}{^}",
+"TPR*PBL": "{^}{#Alt_L(braceright)}{^}",
+"TPR-PBL": "{^}{#Alt_L(braceleft)}{^}"
 }
