@@ -35,6 +35,7 @@
 "PR*PB": "{^~|)}",
 "PR-BG": "{^(^}",
 "PR-PB": "{^}(){#Left}{^}",
+"PURB/TK*": "pushd",
 "PWR*BGT": "{^]^}",
 "PWR-BG": "{^[^}",
 "PWRAEBGT": "breakpoint()",
@@ -44,6 +45,7 @@
 "SET/KW*": "{^} setq",
 "SEUPL/HREUPBG": "symlink",
 "SK-P": "{^}&{^}",
+"SKAEUPL": "schema",
 "SKAO*EPL": "{^}.scm",
 "SKOEPG": "psycopg2{^}",
 "SKW-L": "sql",
@@ -71,5 +73,6 @@
 "TPHUPL/PAOEU": "numpy",
 "TPR*BG": "{^\\}^}",
 "TPR-BG": "{^\\{^}",
-"TUPL": "tuple"
+"TUPL": "tuple",
+"TUPLS": "tuples"
 }
