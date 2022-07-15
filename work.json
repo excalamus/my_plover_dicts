@@ -9,6 +9,7 @@
 "KOPB/TKA": "conda",
 "KPWREUS": "pys",
 "KW-T/KR*": "QtCore.{^}",
+"KW-T/T*": "QtTest.QTest.{^}",
 "KW-T/TKPW*": "QtGui.q{^}",
 "KW-T/W*": "QtWidgets.q{^}",
 "PAOEU/SAOEUD": "pyside",
