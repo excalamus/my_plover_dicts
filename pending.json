@@ -5,6 +5,7 @@
 "KPH*EUPBT": "comint",
 "KPW-PBG": "{^}{#Control_L(x)}b{^}",
 "KWHR-PBG": "{^}{#Control_L(equal)}{^}",
+"KWHR-PBL": "{^}{#Alt_L(equal)}{^}",
 "OEUPBG": "{^}{#Control_L(slash)}{^}",
 "OEUPBL": "{^} {#Alt_L(slash)} {^}",
 "PHEUFR": "minibuffer",

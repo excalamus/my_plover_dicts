@@ -7,6 +7,7 @@
 "PHAPBLGT": "{^}{#Control_L(x) g}{^}",
 "PR*EUPBT": "printf {#tab} {^}",
 "R-FPL": "{^}{#Control_L(x) o f}{^}",
+"STA*RT": "starti",
 "TK-F": "{^}def {#tab} {^}",
 "TK-FS": "{^}defs {#tab} {^}",
 "W-FPL": "{^}{#Control_L(x) o s}{^}"
