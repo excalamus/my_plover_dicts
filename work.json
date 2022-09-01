@@ -17,6 +17,7 @@
 "PEUBGS/PHAP": "pixmap",
 "PHOPL/PWA": "mamba",
 "PRO*BG": "proc",
+"PWEUBGS": "bix",
 "R*EBGT": "rect",
 "SEG": "seg",
 "SKWR-S/*U": "qgis.utils.{^}",
