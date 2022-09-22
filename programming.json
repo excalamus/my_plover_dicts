@@ -70,6 +70,7 @@
 "STKHR": "SDL_{^}{-|}",
 "STR*": "str",
 "STR*UBGT": "struct",
+"STR-BGS": "**",
 "TAO/TKO": "TODO",
 "TAOEUP/TKEF": "typedef",
 "TEBG/EUPB/TPO": "texinfo",
