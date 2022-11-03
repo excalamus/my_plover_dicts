@@ -59,6 +59,8 @@
 "SR-FPBG": "{^}{#F8}{^}",
 "SRAOES": "visa",
 "STPH*F": "{#Alt_L(BackSpace)}",
+"STPH-FP": "{#Control_L(Super_L(Left))}",
+"STPH-PL": "{#Control_L(Super_L(Right))}",
 "STPHAO*EBG": "sneek",
 "STPHERT": "insert",
 "T-P": "{^}→{^}",
