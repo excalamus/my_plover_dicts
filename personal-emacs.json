@@ -6,6 +6,7 @@
 "P-FPL": "{^}{#Control_L(x) o a}{^}",
 "PHAPBLGT": "{^}{#Control_L(x) g}{^}",
 "PR*EUPBT": "printf {#tab} {^}",
+"PWHARBG": "{#Control_L(F2)}",
 "R-FPL": "{^}{#Control_L(x) o f}{^}",
 "STA*RT": "starti",
 "TK-F": "{^}def {#tab} {^}",
