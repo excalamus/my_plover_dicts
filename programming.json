@@ -95,6 +95,7 @@
 "TPR-BG": "{^\\{^}",
 "TPROB/TPHEUTS": "frobnitz",
 "TPUPB/KAUL": "funcall",
+"TRAEUS/PWABG": "traceback",
 "TUPL": "tuple",
 "TUPL/-S": "tuples",
 "TUPLS": "tuples"
